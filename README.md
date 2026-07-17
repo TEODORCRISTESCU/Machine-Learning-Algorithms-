@@ -1,0 +1,1 @@
+Playground where I try to write mostly using numpy and maybe scikit learn algorithms from my Machine Learning class
